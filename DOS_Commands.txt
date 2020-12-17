@@ -1,0 +1,6 @@
+cd- Change directory or display current directory path.
+cls- Clear the window.
+dir- Display list of contents of current directory.
+help- Display list of commands or help about a command.
+notepad- Run the Windows Notepad text editor.
+type- Displays the contents of a text file.
