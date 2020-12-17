@@ -1,0 +1,4 @@
+cd - Change directory
+mkdir - Make a new directory and name it
+pwd - Print the name of the current directory you are in
+ls - List all files in your current destination folder
